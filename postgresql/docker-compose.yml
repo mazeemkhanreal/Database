@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: custom-postgres:1.0
+    container_name: custom-postgresql
+    ports:
+      - "5442:5432"
+    volumes:
+      - postgres-data-custom:/var/lib/postgresql/data
+
+volumes:
+  postgres-data-custom:
