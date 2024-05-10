@@ -2,7 +2,7 @@
 This repository serves as a testimonial of my work for building CI/CD pipelines.
 
 For Details regarding the documentation of how to build your custom docker applications please check
-https://medium.com/@mazeemkhanq/building-any-application-you-want-via-docker-075e393828c8
+[Medium](https://medium.com/@mazeemkhanq/building-any-application-you-want-via-docker-075e393828c8)
 
 ### This section below will serve as guide for this overall repository
 
